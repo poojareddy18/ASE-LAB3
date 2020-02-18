@@ -52,54 +52,9 @@ DON'T HAVE AN ACCOUNT?
 </form>
 </head>
 </html>
-/* login page
- <DOCTYPE html!>
-<html>
-<head>
-<h2> LOGIN PAGE </h2>
-<style>
-body
-{
-  background-image:url("https://st3.depositphotos.com/1558912/19061/i/1600/depositphotos_190618686-stock-photo-italian-food-background-on-white.jpg");
-  background-color:lightblue;
-}
-h2{
-  text-align:center;
-  }
-div{
-  text-align:center;
-  }
-//div1{
-   text-align:center;
-}
-//div2{
-   text-align:center;
-}
-</style>
-<form>
-<div>
 
 
 
-   <label for="email"><b>EMAIL:</b></label>
-<input type="email" placeholder="ENTER EMAIL" id="EMAIL"><br> <br>
-
-   <label for="psw"><b>PASSWORD:</b></label>
-<input type="text" placeholder="ENTER PASSWORD" id="PASSWORD"><br> <br>
-
-<input type="submit" value="login" text-align="center">
-<br>
- <label>
-        <input type="checkbox" checked="checked" name="remember"> Remember me
-      </label>
-<br>
-<br>
-DON'T HAVE AN ACCOUNT?
-<input type="submit" value="Register" text-align="center">
-</div>
-</form>
-</head>
-</html>
 register page
 
 <DOCTYPE html!>
