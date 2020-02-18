@@ -1,4 +1,4 @@
-# ASE-LAB3
+ASE-LAB3
 NUTRITION FACTS 
 <DOCTYPE html!>
 <html>
@@ -108,7 +108,7 @@ CONFIRM PASSWORD:
 </form>
 </head>
 </html>
-*/
+
 final output
 <DOCTYPE html!>
 <html>
